@@ -28,7 +28,7 @@ The dataset used in this analysis contains information about Rockbuster's film i
 *   **Size:** Approximately 3MB, consisting of several files.
 *   **Structure:** Relational database structure, with relationships between tables indicated by shared column names.
 *   **Location:** 
-*                  https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+*                  (https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
 
-*   Link to my Tableau
+*   [Tableau Story Board] (https://public.tableau.com/shared/T44JDWGN6?:display_count=n&:origin=viz_share_link)
